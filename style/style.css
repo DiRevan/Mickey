@@ -1,0 +1,49 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+.mickey {
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  border-radius: 80%;
+  box-shadow: 10px 10px 10px 5px black;
+  float: left; /* Выравнивание по левому краю */
+  margin: -10px 50px 0px 0px; /* Отступы вокруг картинки */
+}
+
+.pril {
+  width: 150px;
+  border-radius: 10%;
+  box-shadow: 4px 5px 10px 5px darkred;
+  margin-right: 10px; /* Отступ справа от картинки*/
+}
+
+.texthistory {
+  color: red;
+}
+
+.social a {
+  text-align: center;
+  width: 48px;
+  height: 40px;
+  float: left;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 7px 5px 5px black;
+  border-radius: 24px;
+  margin: 0 10px 10px 0;
+  padding: 6px;
+  color: #000;
+}
+
+.youtube a:hover {
+  background: #c4302b;
+  color: #fff;
+}
+.instagram a:hover {
+  background: #3f729b;
+  color: #fff;
+}
+.facebook a:hover {
+  background: #3b5998;
+  color: #fff;
+}
